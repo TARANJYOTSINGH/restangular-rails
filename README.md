@@ -31,7 +31,7 @@ note: Make sure to insert the restangular require below its dependencies require
 
 ## What's included?
 
-Restangular 1.4.0:
+Restangular 1.5.2:
 
 * restangular.js
 * restangular.min.js
